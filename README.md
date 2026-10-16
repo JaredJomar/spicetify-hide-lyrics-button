@@ -2,6 +2,16 @@
 
 Spicetify extension that hides Spotify's native **Lyrics** button while leaving **Spicy Lyrics** buttons visible.
 
+## Preview
+
+Before:
+
+![Before](screenshots/before.png)
+
+After:
+
+![After](screenshots/after.png)
+
 ## Installation
 
 Copy `hide-lyrics-button.js` to Spicetify's `Extensions` directory and enable it with:
