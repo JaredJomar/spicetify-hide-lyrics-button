@@ -1,0 +1,14 @@
+{
+  "name": "Hide Lyrics Button",
+  "description": "Hides Spotify's native Lyrics button while keeping Spicy Lyrics visible.",
+  "preview": "preview.svg",
+  "main": "hide-lyrics-button.js",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "JaredJomar",
+      "url": "https://github.com/JaredJomar"
+    }
+  ],
+  "tags": ["lyrics", "spotify", "customization"]
+}
